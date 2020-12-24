@@ -10,6 +10,9 @@ assignees: ''
 ## Describe the bug
 A clear and concise description of what the bug is.
 
+## Relevant issues
+Did you find any existing issues relevant to this one? If you found the same issue, please contribute to that one instead of making a duplicate.
+
 ## To Reproduce
 Steps to reproduce the behavior:
 1. Go to '...'
