@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official Discord
+    url: https://discord.gg/neosvr
+    about: Get latest updates, discuss ideas and feedback, contact team members for security issues.
+  - name: Official email
+    url: bugs@neosvr.com
+    about: Please report security vulnerabilities here.

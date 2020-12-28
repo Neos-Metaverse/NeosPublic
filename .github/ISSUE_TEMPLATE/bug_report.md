@@ -7,24 +7,26 @@ assignees: ''
 
 ---
 
+IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] AND THIS ONE AS WELL
+
 ## Describe the bug
-A clear and concise description of what the bug is.
+[A clear and concise description of what the bug is.]
 
 ## Relevant issues
-Did you find any existing issues relevant to this one? If you found the same issue, please contribute to that one instead of making a duplicate.
+[Did you find any existing issues relevant to this one? If you found the same issue, please contribute to that one instead of making a duplicate.]
 
 ## To Reproduce
-Steps to reproduce the behavior:
+[Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See error]
 
 ## Expected behavior
-A clear and concise description of what you expected to happen.
+[A clear and concise description of what you expected to happen.]
 
 ## Screenshots / Video
-If applicable, add screenshots or a video to help explain your problem.
+[If applicable, add screenshots or a video to help explain your problem.]
 
 ## Bug information (please complete the following information):
  - How often does it happen: [Always, Sometimes, Only Once]
@@ -34,7 +36,7 @@ If applicable, add screenshots or a video to help explain your problem.
  - Regression: [Did this work before? Yes (which build?) / No]
 
 ## Additional context
-Add any other context about the problem here.
+[Add any other context about the problem here.]
 
 ## Reporters:
-Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes)
+[Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes)]
