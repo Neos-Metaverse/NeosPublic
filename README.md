@@ -12,5 +12,5 @@ You can vote on any issue by clicking the Emoji button at the top right of the o
 
 ## Roadmap
 
-This repository also contain's Neos Roadmap, you can find this [here](https://github.com/Frooxius/NeosPublic/projects/1)
+This repository also contains Neos Roadmap, you can find this [here](https://github.com/Frooxius/NeosPublic/projects/1)
 
