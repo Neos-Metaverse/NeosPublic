@@ -30,6 +30,7 @@ IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like
 
 ## Bug information (please complete the following information):
  - How often does it happen: [Always, Sometimes, Only Once]
+ - Does the bug persist after restarting Neos? [Yes/No]
  - Neos Version: [version number]
  - Neos Platform: [Any, Windows, Linux, Android/Quest]
  - Link to reproduction World/Item: [Optional, but can speed up response for more complex reproduction cases]
