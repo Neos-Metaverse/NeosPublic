@@ -6,6 +6,9 @@ Issues are used to discuss items such as Bug Reports, Feature Requests and Docum
 
 If you'd like to make a new issue you can [click here](https://github.com/Frooxius/NeosPublic/issues/new/choose) to start the process. You'll need a GitHub account to make issues and one can be created by [clicking here](https://github.com/join)
 
+## Security issues or exploits
+Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com
+
 ## Before you create issue or comment
 - Be as descriptive as possible. Explain what happened prior to problem, what does the problem look like and what you expected instead. The better the description, the less back and forth will be needed and the greater likelihood of getting the issue solved
 - If you experience a problem, make sure it’s reported. If you wait for someone else to report it instead or the developers to notice themselves, it might not get fixed for a long time (or at all)
