@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] AND THIS ONE AS WELL
+<!-- IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] -->
 
 ## Is your tweak request related to a problem? Please describe.
 [A clear and concise description of what the problem is. Ex. I'm always frustrated when ...]

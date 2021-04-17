@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] AND THIS ONE AS WELL
+<!-- IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] -->
 
 ## Where have you searched for this information before making this issue?
 [Please ensure you have exhausted all other possible sources prior to making this request E.g. The Neos Wiki, the Neos Discord, other community members, etc.]
