@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] AND THIS ONE AS WELL
+<!-- IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] -->
 
 ## Describe the bug
 [A clear and concise description of what the bug is.]

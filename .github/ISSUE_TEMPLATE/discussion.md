@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] AND THIS ONE AS WELL
+<!-- IMPORTANT: PLEASE REPLACE OR DELETE (if not relevant) ANY TEXT IN BRACKETS [Like this] -->
 
 ## What topic do you want to discuss?
 [Brief description of the topic. Is this megathread for a recently added major feature? Or is this general discussion for a planned feature set? Or perhaps some social implications / concerns?]
