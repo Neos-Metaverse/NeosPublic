@@ -1,0 +1,1 @@
+Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com
