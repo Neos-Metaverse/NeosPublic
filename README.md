@@ -9,6 +9,9 @@ If you'd like to make a new issue you can [click here](https://github.com/Frooxi
 ## Security issues or exploits
 Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com
 
+## Inter-personal issues and requests
+If your issue directly relates to another user or group rather than a general bug or feature requests for the software, please make a ticket at https://moderation.neos.com instead.
+
 ## Before you create issue or comment
 - Be as descriptive as possible. Explain what happened prior to problem, what does the problem look like and what you expected instead. The better the description, the less back and forth will be needed and the greater likelihood of getting the issue solved
 - If you experience a problem, make sure it’s reported. If you wait for someone else to report it instead or the developers to notice themselves, it might not get fixed for a long time (or at all)
