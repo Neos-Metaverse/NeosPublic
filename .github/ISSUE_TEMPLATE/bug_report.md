@@ -25,8 +25,11 @@ assignees: ''
 ## Expected behavior
 [A clear and concise description of what you expected to happen.]
 
+## Log Files
+[Include log files from affected session or information on where to obtain them (e.g. sent over Discord). DO NOT extract only parts of the logs, please always include whole log files as they contain important context.]
+
 ## Screenshots / Video
-[If applicable, add screenshots or a video to help explain your problem.]
+[If applicable, add screenshots or a video to help explain your problem. DO NOT use screenshots or video in place of description of the problem and replication steps though.]
 
 ## Bug information (please complete the following information):
  - How often does it happen: [Always, Sometimes, Only Once]
