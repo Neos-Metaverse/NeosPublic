@@ -1,0 +1,102 @@
+name: "Bug report"
+description: "Something isn't working correctly"
+labels: Bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the bug"
+      description: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+  - type: textarea
+    id: relevant-issues
+    attributes:
+      label: "Relevant issues"
+      description: "Did you find any existing issues relevant to this one? If you found the same issue, please contribute to that one instead of making a duplicate."
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: "Steps to reproduce the behavior"
+      placeholder: "1. Go to '...'\n
+        2. Click on '...'\n
+        3. Scroll down to '...'\n
+        4. See error"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: "Expected behaviour"
+      description: "A clear and concise description of what you expected to happen."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Log files"
+      description: "Include log files from affected session or information on where to obtain them (e.g. sent over Discord). DO NOT extract only parts of the logs, please always include whole log files as they contain important context."
+      placeholder: "Select the log file(s), then drag over this field to upload."
+  - type: textarea
+    attributes:
+      label: "Screenshots / Video"
+      description: "If applicable, add screenshots or a video to help explain your problem. DO NOT use screenshots or video in place of description of the problem and replication steps though."
+  - type: dropdown
+    id: issue-frequency
+    attributes:
+      label: "How often does it happen?"
+      options:
+        - "Always"
+        - "Sometimes"
+        - "Only Once"
+    validations:
+      required: true
+  - type: dropdown
+    id: persist-after-restart
+    attributes:
+      label: "Does the bug persist after restarting Neos?"
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Neos Version"
+      placeholder: "Version number"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: "Neos Platform"
+      multiple: true
+      options:
+        - "Any"
+        - "Windows"
+        - "Linux"
+        - "Android/Quest"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-links
+    attributes:
+      label: "Link(s) to reproduction World(s)/Item(s)"
+      description: "Optional, but can speed up response for more complex reproduction cases"
+  - type: input
+    id: regression
+    attributes:
+      label: "Did this work before?"
+      placeholder: "Yes (which build?) / No"
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: "Additional context"
+      description: "Add any other context about the problem here."
+  - type: input
+    id: reporters
+    attributes:
+      label: "Reporters"
+      description: "Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes)"
