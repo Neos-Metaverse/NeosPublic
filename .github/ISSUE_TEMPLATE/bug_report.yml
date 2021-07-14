@@ -39,7 +39,7 @@ body:
     id: log-files
     attributes:
       label: Log Files
-      description: This one might not work?
+      description: Include log files from affected session or information on where to obtain them (e.g. sent over Discord). DO NOT extract only parts of the logs, please always include whole log files as they contain important context.
     validations:
       required: false
   - type: textarea
