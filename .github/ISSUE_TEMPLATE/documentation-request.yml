@@ -1,0 +1,35 @@
+name: "Documentation request"
+description: "Request for documentation information"
+labels: "Documentation"
+body:
+  - type: textarea
+    id: search-area
+    attributes:
+      label: "Where have you searched for this information before making this issue?"
+      description: "Please ensure you have exhausted all other possible sources prior to making this request E.g. The Neos Wiki, the Neos Discord, other community members, etc."
+    validations:
+      required: true
+  - type: textarea
+    id: request-component
+    attributes:
+      label: "Which part of the system do you need information on?"
+      description: "Component? LogiX node? Internal behavior? Something else? Please specify the category and name of the component/node if applicable."
+    validations:
+      required: true
+  - type: textarea
+    id: request-scope
+    attributes:
+      label: "What information do you need to know?"
+      description: "Describe what behavior you need explained."
+    validations:
+      required: true
+  - type: dropdown
+    id: wiki-intent
+    attributes:
+      label: "Do you plan to format and contribute the provided information to Wiki?"
+      description: "Requests whose goal is to contribute to the official Wiki (https://wiki.neos.com) will get priority. Please post a link to the wiki article containing this documentation after adding it."
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
