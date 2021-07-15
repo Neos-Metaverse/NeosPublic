@@ -64,8 +64,8 @@ body:
     attributes:
       label: Does the bug persist after restarting Neos?
       options:
-        - label: "No"
-        - label: "Yes"
+        - "No"
+        - "Yes"
     validations:
       required: true
   - type: input
