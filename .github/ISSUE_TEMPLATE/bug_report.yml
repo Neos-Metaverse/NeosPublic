@@ -75,15 +75,15 @@ body:
       placeholder: 1.2.3?
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: platforms
     attributes:
       label: What Platforms does this occur on?
+      multiple: true
       options:
-        - label: "Any"
-        - label: "Windows"
-        - label: "Linux"
-        - label: "Android / Quest"
+        - "Windows"
+        - "Linux"
+        - "Android / Quest"
     validations:
       required: true
   - type: input
