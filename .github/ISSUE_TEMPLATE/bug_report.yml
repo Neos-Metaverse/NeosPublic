@@ -98,6 +98,7 @@ body:
       options:
         - "Yes"
         - "No"
+        - "I Don't Know"
     validations:
       required: true
   - type: input
