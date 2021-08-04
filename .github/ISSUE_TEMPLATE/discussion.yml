@@ -1,5 +1,6 @@
 name: "Discussion / General Feedback"
 description: "Discuss any recent / planned changes to the platform"
+labels: [Discussion]
 body:
   - type: textarea
     id: topic
