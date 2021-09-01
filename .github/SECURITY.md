@@ -7,7 +7,7 @@ Neos takes the security of its products and services seriously. If you believe y
 Generally the following types of issues are things that we are looking for:
 
 - Personal Data / Information Gathering
-  - See our notes below on [PrivateData](#private-data)
+  - See our notes below on [Private Data](#private-data)
 - Currency Theft / Manipulation
 - Gaining Access to a User's Computer / Privilege Escalation
 - Neos Cloud Issues etc.
