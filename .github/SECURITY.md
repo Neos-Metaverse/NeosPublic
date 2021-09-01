@@ -81,11 +81,9 @@ Although this information is not considered private, using or acquiring it in a 
 Once a report has been submitted to our ticket system you should receive the following responses:
 
 1. Acknowledgement - A response from our ticket system should let you know that we've received your ticket.
-2. Further Responses - A Neos Representative may reach out with some
-   additional questions or clarifications to help us to triage and
-   work on your issue.
-   _ Please work with this representative in providing as much information as you can and answering their questions.
-   _ Working with Neos on your issue will help us reproduce it and fix it sooner.
+2. Further Responses - A Neos Representative may reach out with some additional questions or clarifications to help us to triage and work on your issue.
+    - Please work with this representative in providing as much information as you can and answering their questions.
+    - Working with Neos on your issue will help us reproduce it and fix it sooner.
 3. Resolution - After the issue is resolved you will receive an additional message acknowledging that this issue is resolved.
 
 ## Issue Bounties
