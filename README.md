@@ -7,7 +7,9 @@ Issues are used to discuss items such as Bug Reports, Feature Requests and Docum
 If you'd like to make a new issue you can [click here](https://github.com/Frooxius/NeosPublic/issues/new/choose) to start the process. You'll need a GitHub account to make issues and one can be created by [clicking here](https://github.com/join)
 
 ## Security issues or exploits
-Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com
+Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com .
+
+For more information please read our [security and exploit reporting policy](./.github/SECURITY.md).
 
 ## Inter-personal issues and requests
 If your issue directly relates to another user or group rather than a general bug or feature requests for the software, please make a ticket at https://moderation.neos.com instead.
