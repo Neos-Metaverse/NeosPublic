@@ -24,10 +24,10 @@ If your issue directly relates to another user or group rather than a general bu
 - Even if your exact suggestion isn’t implemented, it’s still very useful, because it helps us see what issues you’re dealing with and incorporate those into future decisions, or address the problem in an alternate way
 - Please keep issues on topic and conversation calm and factual. Bringing emotion makes issues harder to deal with and will only hurt their resolution and impact our overall development speed. Remember we're human as well.
 
-### Discussing issues with others in Discord
+## Discussing issues with others in Discord
 If you're unsure about an issue and want to ask others or solidify your report before you post, you can use the #bugs-and-feedback channel in our official Discord (https://discord.gg/neosvr). Please be aware that things can get lost in the flow of conversation or might not get immediate response. If you want to make sure the issue is logged and doesn’t get missed, always log it on GitHub after the discussion.
 
-### I have issue with model or other asset I’m importing
+## I have issue with model or other asset I’m importing
 Due to a wide variety of models, rigs and types of files, not all of them will import correctly. You might encounter things like:
 - Vertices being randomly messed up, stretching where they shouldn’t (either with static model or when using blendshapes)
 - Model failing to import at all or crashing Neos
@@ -35,7 +35,7 @@ Due to a wide variety of models, rigs and types of files, not all of them will i
 
 If you can share the model file itself, send it over to developers for testing. This significantly increases the chance of the issue being fixed, as we can analyze what is going wrong with the file.
 
-### When is a feature going to be implemented or a bug fixed?
+## When is a feature going to be implemented or a bug fixed?
 At any time, there are many different features and issues that we’d like to implement or fix, but there’s only a few that can be worked on at the time. There are several factors that determine the priority:
 - **Severity**: If it’s something with serious global impact on usability or security of users, it will be very high on the list.
 - **Demand**: The more people request a given feature or issue to be fixed, the higher its priority. This changes over time, so don’t hesitate adding your voice even if it was already requested. Becoming a supporter or donating will give your requests higher priority as it helps grow and support our team
@@ -45,6 +45,23 @@ At any time, there are many different features and issues that we’d like to im
 Note that the priorities are constantly shifting and evolving based on the feedback and demand from you, the community. If something is determined to be low priority at the moment, it doesn’t need to stay that way, just make sure your voice is heard through the right channels and we’ll listen!
 
 If the request is not feasible on our end, we'll try to offer alternatives or explain why it can't/won't be implemented. We knows it sucks getting a request denied, but we'd rather be upfront about it rather than give an empty promise on something we know we can't deliver.
+
+### Feature/Issue Prioritization 
+
+Neos & The Neos Team prioritizes work using a number of signals and factors. These factors all mix together into a final decision through discussion with the Neos Team. These factors are(but not limited to):
+- Neos' Roadmap & Plans
+- Neos' Limitations - We're in some cases waiting on or dependant on other features or 3rd parties.
+- Neos' Business Needs
+- GitHub Thumbs Ups
+- Patron Issue Voting
+- The needs of the Neos Team
+- The needs of the Community
+- What the Neos Team CAN work on
+- What the Neos Team WANT to work on
+
+These factors are not explicitly ordered as ALL of them factor into the decision making process.  
+
+We understand that users may be frustrated in the order in which we work on things or that we're not working on what they want us to work on but the best thing you can do is to continue to work with us in voting on issues, providing us feedback and making GitHub Issues.
 
 Sometimes you might also see certain features being done out of order completely. Developing can be quite draining task sometimes and we like to work on certain things just for fun or for the satisfaction of it to refocus our brains. Plus it makes sure that certain low demand, but nice things get attention from time to time too!
 
