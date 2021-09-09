@@ -120,8 +120,10 @@ After deliberation and discussion with the Neos Team, a choice to reward a bount
 
 Multiple issues that are reported may also strengthen your [regular application for CDFT](https://docs.google.com/forms/d/e/1FAIpQLSd7pZzQCWVAlh-O5Zb_T029mFcY7pTTsBq-x-DwabB5n7iZ4g/viewform) should you have one.
 
-Please **do not** submit a CDFT application for each report made and
-please **do not** submit an application **just** for your security reporting activities.
+Please **do not** submit a CDFT application for each report made and please **do not** submit an application **just** for your security reporting activities.
+
+### Group / Team Rewards
+Should you be working as a group or as a team, please indicate this in your original report. In the event of a reward we will contact you so that your group/team can decide how to split the rewards.
 
 ### Retroactive Rewards
 
