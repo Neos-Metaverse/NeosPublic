@@ -2,9 +2,9 @@
 A public issue, wiki and roadmap only repository for the NeosVR project.
 
 ## What are Issues?
-Issues are used to discuss items such as Bug Reports, Feature Requests and Documentation requests with the Neos Team. You can find the issue list [here](https://github.com/Frooxius/NeosPublic/issues)
+Issues are used to discuss items such as Bug Reports, Feature Requests and Documentation requests with the Neos Team. You can find the issue list [here](https://github.com/Neos-Metaverse/NeosPublic/issues)
 
-If you'd like to make a new issue you can [click here](https://github.com/Frooxius/NeosPublic/issues/new/choose) to start the process. You'll need a GitHub account to make issues and one can be created by [clicking here](https://github.com/join)
+If you'd like to make a new issue you can [click here](https://github.com/Neos-Metaverse/NeosPublic/issues/new/choose) to start the process. You'll need a GitHub account to make issues and one can be created by [clicking here](https://github.com/join)
 
 ## Security issues or exploits
 Please do not submit security exploits to the public GitHub. You can report them privately at https://moderation.neos.com .
@@ -18,7 +18,7 @@ If your issue directly relates to another user or group rather than a general bu
 - Be as descriptive as possible. Explain what happened prior to problem, what does the problem look like and what you expected instead. The better the description, the less back and forth will be needed and the greater likelihood of getting the issue solved
 - If you experience a problem, make sure it’s reported. If you wait for someone else to report it instead or the developers to notice themselves, it might not get fixed for a long time (or at all)
 - See if you can find a way to reliably replicate the bug. If the developers can reproduce the bug on their end, it significantly helps with its resolution
-- If you experienced a bug, including the log files can significantly help in resolving the issue. See here how to find the logs: http://wiki.neosvr.com/subdom/wiki/index.php?title=Frequently_Asked_Questions#Where_can_I_find_log_files.3F
+- If you experienced a bug, including the log files can significantly help in resolving the issue. See here how to find the logs: https://wiki.neos.com/index.php?title=Frequently_Asked_Questions#Where_can_I_find_log_files.3F
 - If you have crashed, frozen or encountered hardware issue, include the additional Unity log as well.
 - If you have crashed or frozen, check for crash dumps and include those as well
 - Even if your exact suggestion isn’t implemented, it’s still very useful, because it helps us see what issues you’re dealing with and incorporate those into future decisions, or address the problem in an alternate way
@@ -46,7 +46,7 @@ Note that the priorities are constantly shifting and evolving based on the feedb
 
 If the request is not feasible on our end, we'll try to offer alternatives or explain why it can't/won't be implemented. We knows it sucks getting a request denied, but we'd rather be upfront about it rather than give an empty promise on something we know we can't deliver.
 
-### Feature/Issue Prioritization 
+### Feature/Issue Prioritization
 
 Neos & The Neos Team prioritizes work using a number of signals and factors. These factors all mix together into a final decision through discussion with the Neos Team. These factors are(but not limited to):
 - Neos' Roadmap & Plans
@@ -67,13 +67,13 @@ Sometimes you might also see certain features being done out of order completely
 
 ### Voting on issues
 You can vote on any issue by clicking the Emoji button at the top right of the original post and adding a +1 (thumbs_up). This allows the issue queue to be sorted by number of reactions.
-- [Issues sorted by votes](https://github.com/Frooxius/NeosPublic/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+- [Issues sorted by votes](https://github.com/Neos-Metaverse/NeosPublic/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 
 ### Patreon supporter priority voting
 If you're a Patreon supporter you can also vote on the issues by sending `/priorityIssue <issue number>` command to the "Neos" bot account in Neos (make sure your Neos account is actually linked to Patreon). Currently you can have 1 issue set as your priority, you can change your vote at any time. The score is proportional to the level of support.
-- [Patreon Priority Issues](https://www.neosvr-api.com/api/stats/priorityIssues)
+- [Patreon Priority Issues](https://api.neos.com/api/stats/priorityIssues)
 
 ## Roadmap
 
-This repository also contains Neos Roadmap, you can find this [here](https://github.com/Frooxius/NeosPublic/projects/1)
+This repository also contains Neos Roadmap, you can find this [here](https://github.com/Neos-Metaverse/NeosPublic/projects/1)
 
