@@ -2,7 +2,7 @@
 A public issue, wiki and roadmap only repository for the NeosVR project.
 
 ## DO's and DON'Ts
-- DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to asses the problem.
+- DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to assess the problem.
 - DO be specific - e.g. "It took roughtly 10 minutes" or explain what exact problems and examples you found. Simply stating that there are problems or use-cases isn't enough.
 
 ## What are Issues?
