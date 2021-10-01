@@ -3,6 +3,7 @@ A public issue, wiki and roadmap only repository for the NeosVR project.
 
 ## DO's and DON'Ts
 - DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to assess the problem.
+- DON'T hijack existing issue for a similar, but different problem - we generall focus on the issue reported in the original post and won't address other issues mentioned in comment unless they're the same problem. Please make a separate issue instead.
 - DO be specific - e.g. "It took roughtly 10 minutes" or explain what exact problems and examples you found. Simply stating that there are problems or use-cases isn't enough.
 
 ## What are Issues?
