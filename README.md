@@ -5,6 +5,7 @@ A public issue, wiki and roadmap only repository for the NeosVR project.
 - DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to assess the problem.
 - DON'T hijack existing issue for a similar, but different problem - we generall focus on the issue reported in the original post and won't address other issues mentioned in comment unless they're the same problem. Please make a separate issue instead.
 - DO be specific - e.g. "It took roughtly 10 minutes" or explain what exact problems and examples you found. Simply stating that there are problems or use-cases isn't enough.
+- DO provide information on regressions when was the last time (at least approximatelly) the feature worked and how do you know that it worked before, so we can evaluate regressions properly
 
 ## What are Issues?
 Issues are used to discuss items such as Bug Reports, Feature Requests and Documentation requests with the Neos Team. You can find the issue list [here](https://github.com/Neos-Metaverse/NeosPublic/issues)
