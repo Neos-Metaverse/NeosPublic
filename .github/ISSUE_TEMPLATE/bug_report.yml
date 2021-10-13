@@ -46,7 +46,7 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: If applicable, add screenshots or a video to help explain your problem. DO NOT use screenshots or video in place of description of the problem and replication steps though.?
+      description: If applicable, add screenshots or a video to help explain your problem. DO NOT use screenshots or video in place of description of the problem and replication steps though.
     validations:
       required: false
   - type: dropdown
