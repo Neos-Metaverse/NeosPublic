@@ -86,6 +86,9 @@ Once a report has been submitted to our ticket system you should receive the fol
     - Working with Neos on your issue will help us reproduce it and fix it sooner.
 3. Resolution - After the issue is resolved you will receive an additional message acknowledging that this issue is resolved.
 
+## Example Report
+We have an [example report](https://wiki.neos.com/Security/Example_Report) which was submitted by the community and lead to a fix. It has been anonymized and [presented to you](https://wiki.neos.com/Security/Example_Report) to provide an example of what we're looking for.
+
 ## Issue Bounties
 
 When reporting issues to Neos, we may give out rewards or incentives for reporting security issues. The rewards are in the form of CDFT(Community Developer Fund Token) which you can read more about on our [Neos Whitepaper](https://neos.com/whitepaper.pdf).
