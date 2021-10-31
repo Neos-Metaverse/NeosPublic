@@ -1,5 +1,10 @@
 # NeosPublic
-A public issue, wiki and roadmap only repository for the NeosVR project.
+A public issue and roadmap only repository for the NeosVR project.
+
+## Recent Steam Changes
+If you're curious on the recent Steam changes we have a [wiki page dedicated to that](https://wiki.neos.com/Neos_Credits/Steam_Changes).
+
+You can also download Neos through a [direct link](https://cloudxstorage.blob.core.windows.net/install/2021.10.30.605.7z)
 
 ## DO's and DON'Ts
 - DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to assess the problem.
@@ -10,6 +15,7 @@ A public issue, wiki and roadmap only repository for the NeosVR project.
 - DO paste the actual quote/conversation from external sources (e.g. Discord) into GitHub, instead of just linking them. Following those links can be tedious on our end as it requires logging in, switching applications, resulting in those issues being shelved for later and getting lower priority as a result.
 - DON'T use entire conversations from external channels as the issue or response to questions in the issue. Please post a summary instead or answer to the specific question. If we need to read a longer conversation to get answer to the question, we'll less likely prioritize the issue over ones that provide clear and succint summaries.
 - DON'T use vague issue titles, for example "xyz should be nicer to use" or "xyz should have more functionality". When we can't tell what the issue is about specifically from the title, it's much less likely we'll pick it up when looking for issues to prioritize, as it requires us to open the issue to learn what it's about, instead of just going through the list of issues.
+- DON'T paste partial log files or screenshots of log files. We need the whole log file from your computer, drag it into the new issue form.
 
 ## What are Issues?
 Issues are used to discuss items such as Bug Reports, Feature Requests and Documentation requests with the Neos Team. You can find the issue list [here](https://github.com/Neos-Metaverse/NeosPublic/issues)
