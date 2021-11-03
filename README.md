@@ -4,7 +4,7 @@ A public issue and roadmap only repository for the NeosVR project.
 ## Recent Steam Changes
 If you're curious on the recent Steam changes we have a [wiki page dedicated to that](https://wiki.neos.com/Neos_Credits/Steam_Changes).
 
-You can also download Neos through a [direct link](https://cloudxstorage.blob.core.windows.net/install/2021.10.30.605.7z)
+You can also download Neos through a [direct link](https://assets.neos.com/install/NeosPublicSetup.exe). This is not Neosine, its a temporary launcher.
 
 ## DO's and DON'Ts
 - DON'T use vague statements and measurements (e.g. "It took too long", "I have encountered problems/examples"). Those are subjective and could mean anything, which can make it difficult for us to assess the problem.
