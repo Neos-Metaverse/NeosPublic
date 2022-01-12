@@ -141,3 +141,6 @@ If you have previously made reports, we will not be retroactively giving out rew
 In these cases, we do encourage you to submit a regular [CDFT Application](https://docs.google.com/forms/d/e/1FAIpQLSd7pZzQCWVAlh-O5Zb_T029mFcY7pTTsBq-x-DwabB5n7iZ4g/viewform) if you do not already have an active one. Your historical security reports and current activity may be factored in to strengthen your application.
 
 Please **do not** submit a CDFT application for each report made and please **do not** submit an application **just** for your security reporting activities.
+
+## Mods and Plugins
+See our [Mod & Plugin Policy](https://wiki.neos.com/Mod_%26_Plugin_Policy)
