@@ -67,9 +67,9 @@ These guidelines are not intended to supersede or to overrule the general [Neos 
 
 When reporting an issue you may discover a workaround or protection that mitigates an issue. Ensure that this is included in your report. In our response to your report we may discuss the suitability of your workaround. After this discussion and depending on the severity, Neos may communicate the issue and the workaround publicly in order to protect its userbase until the issue is resolved. 
 
-Informing or suggesting other users apply an unsuitable workaround that gives them a false sense of security is not advisable. Therefore, until the workaround has been discussed and deemed suitable with the Neos team, please do not talk to other users about the workaround. If the workaround is suitable, feel free to suggest other users carry out the workaround. Do keep in mind when doing this that your goal should never be to instill fear or uncertainty into a user. Don't scare them into applying something.
+Informing or suggesting other users apply an unsuitable workaround that gives them a false sense of security is not advisable. Therefore, until the workaround has been discussed and deemed suitable with the Neos team, please do not talk to other users about the workaround. If the workaround is suitable, feel free to suggest the workaround to other users. Do keep in mind when doing this that your goal should never be to instill fear or uncertainty into a user. Don't scare them into applying something.
 
-For Historical reports, if you have a workaround, for a previous reported issue. Please reply to your original report, or open a new report to discuss it.
+For historical reports, if you have a workaround, for a previously reported issue. Please reply to your original report, or open a new report to discuss it.
 
 ### Private Data
 
