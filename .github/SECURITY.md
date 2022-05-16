@@ -42,6 +42,7 @@ When submitting a report please ensure you include as much information as possib
 - Screenshots
 - Videos
 - A link or URL to a replication item.
+- Any workarounds you've found to protect/prevent the issue
 
 You should also indicate if you'd like to opt out of being credited for this report / discovery. When we resolve issues we may credit you in the change logs unless you opt out. Opting out will not affect your ability to receive a reward.
 
@@ -51,13 +52,24 @@ These guidelines are not intended to supersede or to overrule the general [Neos 
 
 1. **We will not ban or apply any account restriction against you for reporting security issues**. Reporting issues is the right thing to do and we want to encourage you to do this.
 2. If you require other users or their data to help you reproduce an issue, ensure that you get consent from them before proceeding.
-3. Do not publicly disclose/share or encourage the use of issues that you find and/or report.
-   - This includes demonstrating, "showing off", advertising etc the issue.
-   - **Using/demonstrating an issue in public with the goals of harassing, disrupting or scaring users may lead to account restrictions under our harassment guidelines.**
-4. Avoid testing, reproducing or investigating issues in public sessions or sessions in which you are not the host.
-5. Once an issue has been resolved you may discuss the issue publicly if you would like.
+3. Do not publicly disclose/share or encourage the use of issues that you find and/or report. **This includes:**
+   - Demonstrating the issue to users. 
+   - "showing off" or advertising etc the issue.
+   - Instilling fear in the community regarding an issue.
+   - Discussing the details/description of the issue with users who are not a part of your security researching group/team.
+4. **Additionally, using/demonstrating an issue in public with the goals of harassing, disrupting or scaring users may lead to account restrictions under our harassment guidelines.**
+5. Avoid testing, reproducing or investigating issues in public sessions or sessions in which you are not the host.
+6. Once an issue has been resolved you may discuss the issue publicly if you would like.
    - When doing this remember to follow all other Neos guidelines and to keep commentary professional and respectful of Neos and its community.
    - Don't brag or boast about the issue.
+
+## Workarounds
+
+When reporting an issue you may discover a workaround or protection that mitigates an issue. Ensure that this is included in your report. In our response to your report we may discuss the suitability of your workaround. After this discussion and depending on the severity, Neos may communicate the issue and the workaround publicly in order to protect its userbase until the issue is resolved. 
+
+Informing or suggesting other users apply an unsuitable workaround that gives them a false sense of security is not advisable. Therefore, until the workaround has been discussed and deemed suitable with the Neos team, please do not talk to other users about the workaround. If the workaround is suitable, feel free to suggest the workaround to other users. Do keep in mind when doing this that your goal should never be to instill fear or uncertainty into a user. Don't scare them into applying something.
+
+For historical reports, if you have a workaround, for a previously reported issue. Please reply to your original report, or open a new report to discuss it.
 
 ### Private Data
 
